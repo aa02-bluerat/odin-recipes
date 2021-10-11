@@ -25,6 +25,8 @@ body{
 h1{
     font-size: 50px;
     text-align: center;
+    margin: 0px;
+    padding: 0px;
 }
 
 h2{
@@ -64,7 +66,7 @@ dt{
 
 .whole-container-1{
     max-width: 900px;
-    margin: 5px auto;
+    margin: 0px auto;
 }
 .para.intro{
     text-align: center;
